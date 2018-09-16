@@ -30,3 +30,4 @@ Use at your own risk, author retains no liability for misuse.
 ---
 # References
 *1) Installation instructions provided in part from the official [Installing Additional Arduino Libraries](https://www.arduino.cc/en/Guide/Libraries) guide.*
+*2) Library format based in part on the [Arduino Libraries](https://www.arduino.cc/en/hacking/libraries) documentation, and on the [Arduino Test Library Implementation](https://www.arduino.cc/en/uploads/Hacking/Test.zip)*
