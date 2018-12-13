@@ -38,7 +38,7 @@ void setup() {
     Serial.println("Scheduling an uncaptured Interval...");
     Async.setInterval(&printMessage,1000);
 
-    // Schedule an interval and capture it's ID so that it can be cancelled 
+    // Schedule an interval and capture its ID so that it can be cancelled 
     Serial.println("Scheduling a captured Interval...");
     capturedInterval = Async.setInterval(&print5Messages,1000);
 }
